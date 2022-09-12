@@ -21,7 +21,7 @@
 ### **👀HOW MY PROJECT LOOKS LIKE:**
 ![Food Restaurant Home Page](ScreenCapture-Of-Food-Restaurant-Home-Page.png)
 
-### 💻It works only in **LAPTOP**(Not Responsive).
+### 💻This Project looks good only in **Laptop Screen**(Not Responsive)
 
 ### **🚀LIVE LINK:**
 -  This project is hosted on **Netlify**.You can Check it live using below link: 
