@@ -6,6 +6,7 @@
   outline: 0px;
   list-style-type: none;
 }
+/* background */
 body {
   background-image: url('assets/background-image.png');
   background-repeat: no-repeat;
@@ -19,6 +20,7 @@ body {
   height: 100vh;
   width: 100vw;
 }
+/* nav-bar */
 .navbar div img {
   height: 50px;
 }
@@ -46,6 +48,7 @@ body {
   border-radius: 1px;
   font-size: 20px;
 }
+/* hero-section */
 .hero {
   text-align: center;
   padding: 40px 250px;
@@ -65,12 +68,14 @@ h1 {
   font-size: 20px;
   margin-top: 25px;
 }
+/* bottom-image */
 .bottom div img {
   position: absolute;
   bottom: 30px;
   right: 50px;
   height: 150px;
 }
+/* hover-effect */
 li:hover {
   font-size: 26px;
   font-weight: bold;
